@@ -1,4 +1,4 @@
-# 🍏 AppleAle Ninja - A Fruit Ninja Tribute in React
+# 🍏 AppleAle Samurai - A Fruit Ninja Tribute in React
 
 Welcome to **AppleAle Samurai** – the **most unnecessary**, yet **most essential** game tribute ever made! 🍏⚔️
 
